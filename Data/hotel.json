@@ -1,0 +1,26 @@
+[
+    {
+    "id":"1",
+     "name":"Paradise Resort",
+     "img":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+     "desc":"Escape to a tropical paradise at the luxurious Paradise Resort. Nestled along the pristine white sands of a private beach, our resort offers a perfect blend of relaxation and adventure.",
+     "ratings":4.8,
+     "cost": "$300"
+},
+{
+    "id":"2",
+     "name":"Urban Haven Hotel",
+     "img":"https://images.pexels.com/photos/17619969/pexels-photo-17619969/free-photo-of-resort-hotel-building-exterior.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+     "desc":"Discover the heart of the city at Urban Haven Hotel. Situated in the bustling downtown area, our modern and stylish hotel is a haven for business and leisure travelers alike.",
+     "ratings":4.5,
+     "cost": "$180" 
+},
+{
+    "id":"3",
+     "name":"Serene Valley Lodge",
+     "img":"https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+     "ratings":4.7,
+     "desc":"Experience tranquility in the lap of nature at Serene Valley Lodge. Tucked away in a serene valley surrounded by towering mountains, our lodge offers a peaceful retreat from the fast-paced world.",
+     "cost": "$250" 
+}
+]
